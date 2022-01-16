@@ -21,4 +21,4 @@ function randomString(text) {
     const number= randomMath(text.length)
     return text.charAt(number)
 }
-console.log(randomString("Javascript"))
+console.log(randomString("Javascript")) 
